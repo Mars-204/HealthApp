@@ -225,6 +225,7 @@ __marimo__/
 
 #Environment variable
 .env
+healthApp/
 
 #data
 *data/
