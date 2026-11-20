@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#Environment variable
+.env
+
+#data
+*data/
+*probe_output/

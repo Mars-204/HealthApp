@@ -1,0 +1,7 @@
+garmin-connect-personal-api-python
+python-dotenv
+streamlit>=1.50
+plotly
+pandas
+google-genai
+pydantic
